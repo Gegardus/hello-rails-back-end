@@ -4,6 +4,10 @@
 
 > This Ruby on Rails implements a connection between a Ruby on Rails back-end and React front-end.
 
+## Link to the front end
+
+[Hello Rails Front End](https://github.com/Gegardus/hello-react-front-end/tree/front-end)
+
 ## Built With
 
 - Major languages (Ruby)
